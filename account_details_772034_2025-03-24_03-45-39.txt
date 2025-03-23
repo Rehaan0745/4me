@@ -1,0 +1,7 @@
+Account ID: 772034
+Customer ID: 1
+Name: Rehaan Ali
+Balance: $28000.00
+Transactions:
+{'Date': '2025-03-24 03:45:06', 'Particulars': 'Deposit', 'Withdrawals': 0, 'Deposits': Decimal('30000'), 'Balance': Decimal('30000')}
+{'Date': '2025-03-24 03:45:24', 'Particulars': 'Withdraw', 'Withdrawals': Decimal('2000'), 'Deposits': 0, 'Balance': Decimal('28000')}
