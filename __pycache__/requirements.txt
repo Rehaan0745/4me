@@ -1,0 +1,7 @@
+psycopg2-binary
+flask  # If using Flask for APIs
+fastapi  # If using FastAPI instead
+uvicorn  # Required for FastAPI deployment
+gunicorn  # For running the app in production
+python-dotenv  # To manage environment variables
+pandas  # If exporting data to CSV/Excel
